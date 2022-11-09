@@ -10,7 +10,7 @@ It's built to train ortographic normalizers with Meta Research's [Fairseq toolki
 Enter the project directory and install with setup.sh
 
 ```
-cd trascricion
+cd fairseq-text-normalizer
 sh setup.sh
 ```
 
