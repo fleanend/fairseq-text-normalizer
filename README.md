@@ -1,4 +1,4 @@
-# fair-normalizer
+# fairseq-text-normalizer
 
 ## About
 fair-normalizer is a streamlined text normalizer factory. 
