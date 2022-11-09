@@ -44,7 +44,7 @@ cd <source>-<target>-normalizer
 sh setup.sh
 ```
 
-Run translate.sh on a text in the <source> orthography
+Run translate.sh on a text in the \<source\> orthography
 ```
 sh translate.sh <input> <output>
 ```
