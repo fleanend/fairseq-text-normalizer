@@ -1,5 +1,7 @@
 # fairseq-text-normalizer
 
+This repository contains code for paper [Text normalization for endangered languages: the case of Ligurian](https://arxiv.org/pdf/2206.07861v1.pdf).
+
 ## About
 fair-normalizer is a streamlined text normalizer factory. 
 
