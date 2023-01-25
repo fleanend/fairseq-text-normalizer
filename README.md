@@ -1,3 +1,5 @@
+[![arXiv](https://img.shields.io/badge/arXiv-2206.07861-<COLOR>.svg)](https://arxiv.org/abs/2206.07861)
+
 # fairseq-text-normalizer
 
 This repository contains code for paper [Text normalization for endangered languages: the case of Ligurian](https://arxiv.org/pdf/2206.07861v1.pdf).
